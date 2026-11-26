@@ -1,6 +1,6 @@
 import os
 
-LINE = "I hired a life coach, and after one session he asked if I knew anyone hiring life coaches."
+LINE = "My alarm clock snoozed itself and woke me up to apologize."
 
 assert 1 <= len(LINE) <= 200, "gate: entry must be 1-200 characters"
 
